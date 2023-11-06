@@ -2,7 +2,9 @@
 
 Predicting Mental Health Illness Of Working Professionals Using Machine Learning
 
-project by:
+
+Project by:
+
 
 Anii Shakya
 
